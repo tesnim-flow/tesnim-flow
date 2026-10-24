@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Tesnim Abdulmelik Ebrahim
+#  Hi, I'm Tesnim Abdulmelik Ebrahim
 
 ### Pharmacy Student | Full-Stack Developer | Competitive Programmer | AI Enthusiast
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌱 About Me
+##  About Me
 
 - 🎓 Pharmacy student at Adama Science and Technology University.
 - 💻 Interested in full-stack development, backend engineering, and artificial intelligence.
@@ -28,7 +28,7 @@
 - 🚀 Building projects that turn ideas into useful applications.
 - 📚 Always learning, experimenting, and improving my skills.
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 **Languages**
 
@@ -54,24 +54,24 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Projects
+##  Projects
 
-### 🎓 UniPath — University Learning & Internship Platform
+###  UniPath — University Learning & Internship Platform
 Developing a platform to help students access learning resources, manage assignments, track progress, and discover internship opportunities.
 
 **Tech stack:** Node.js, Express.js, MongoDB, React
 
-### 💼 Personal Portfolio
+###  Personal Portfolio
 A responsive portfolio website showcasing my background, skills, and development journey.
 
 **Tech stack:** React, Vite, CSS
 
-### 📋 Task Manager API
+###  Task Manager API
 A backend project focused on organizing tasks and practicing REST API development.
 
 **Tech stack:** Node.js, Express.js, MongoDB
 
-### 🔐 Role-Based Management System
+###  Role-Based Management System
 A web application project focused on authentication, user roles, and protected functionality.
 
 **Tech stack:** MongoDB, Express.js, React, Node.js
@@ -88,7 +88,7 @@ A web application project focused on authentication, user roles, and protected f
 
 </div>
 
-## 🎯 Currently Working On
+##  Currently Working On
 
 - Building the UniPath backend.
 - Improving my JavaScript, Node.js, and database skills.
@@ -99,7 +99,7 @@ A web application project focused on authentication, user roles, and protected f
 
 <div align="center">
 
-### ✨ Learn. Build. Improve. Repeat. ✨
+### Learn. Build. Improve. Repeat. 
 
 *Every project is another opportunity to grow.*
 
